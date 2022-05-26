@@ -4,7 +4,7 @@
   <br>
   <p>Full Stack developer at <a href="https://finaktiva.com"> Finaktiva </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
   
-  <a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <a href="https://www.linkedin.com/in/danielarboleda">
     <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   <p> I've been working as a full-sack developer for three years, which have been the most amazing and most productive of my life. Developing and innovating is what I love and I am constantly looking for new challenges.

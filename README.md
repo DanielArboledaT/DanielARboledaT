@@ -2,7 +2,7 @@
   <img align="left" alt="Abhishek's Instagram" src="https://github.com/DanielArboledaT/DanielARboledaT/blob/main/daniel-arboleda.gif" width="700" height="250" />
   
   <br>
-  <p>Full Stack developer at <a href="https://finaktiva.com"> Finaktiva </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+  <p>Full Stack developer at <a href="https://www.pragma.com.co/es"> Pragma </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
   
   <a href="https://www.linkedin.com/in/danielarboleda">
     <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
